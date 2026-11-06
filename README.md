@@ -572,7 +572,7 @@ No `LICENSE` file is currently present in the repository, so no open-source lice
 
 <div align="center">
 
-**Pinjari Mohammed Zunaid**
+**D.Sathish Kumar**
 
 Student developer building practical projects in data analytics, business intelligence, and technology.
 
