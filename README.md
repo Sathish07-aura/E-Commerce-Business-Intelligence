@@ -576,8 +576,7 @@ No `LICENSE` file is currently present in the repository, so no open-source lice
 
 Student developer building practical projects in data analytics, business intelligence, and technology.
 
-[![GitHub](https://img.shields.io/badge/GitHub-mohammadzunaid333--hash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadzunaid333-hash)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pinjari%20Mohammed%20Zunaid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinjari-mohammed-zunaid-14076527a/)
+
 
 </div>
 
@@ -587,8 +586,8 @@ Student developer building practical projects in data analytics, business intell
 
 I'm always happy to hear about collaboration ideas, constructive feedback, project suggestions, and learning opportunities.
 
-- GitHub: [mohammadzunaid333-hash]()
-- LinkedIn: [Pinjari Mohammed Zunaid](https://www.linkedin.com/in/sathish-kumar-6a20243aa/)
+- GitHub: [Sathish07-aura](https://github.com/Sathish07-aura)
+- LinkedIn: [Sathish Kumar](https://www.linkedin.com/in/sathish-kumar-6a20243aa/)
 
 <div align="center">
 
