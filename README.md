@@ -587,8 +587,8 @@ Student developer building practical projects in data analytics, business intell
 
 I'm always happy to hear about collaboration ideas, constructive feedback, project suggestions, and learning opportunities.
 
-- GitHub: [mohammadzunaid333-hash](https://github.com/mohammadzunaid333-hash)
-- LinkedIn: [Pinjari Mohammed Zunaid](https://www.linkedin.com/in/pinjari-mohammed-zunaid-14076527a/)
+- GitHub: [mohammadzunaid333-hash]()
+- LinkedIn: [Pinjari Mohammed Zunaid](https://www.linkedin.com/in/sathish-kumar-6a20243aa/)
 
 <div align="center">
 
